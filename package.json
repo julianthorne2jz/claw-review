@@ -1,0 +1,15 @@
+{
+  "name": "claw-review",
+  "version": "1.0.0",
+  "description": "A new project",
+  "main": "index.js",
+  "bin": {
+    "claw-review": "./index.js"
+  },
+  "author": "Unknown",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^14.0.3"
+  }
+}
