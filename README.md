@@ -1,5 +1,16 @@
 # claw-review
 
+## Install
+
+```bash
+git clone https://github.com/julianthorne2jz/claw-review
+cd claw-review
+npm link
+```
+
+Now you can use `claw-review` from anywhere.
+
+
 A new project
 
 ## Installation
